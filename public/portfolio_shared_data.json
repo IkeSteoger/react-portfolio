@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Ike Steoger",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer in Training" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/IkeSteoger",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://linkedin.com/in/ikesteoger",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
