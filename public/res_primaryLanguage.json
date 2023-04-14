@@ -11,36 +11,56 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Byte Size Adventurez",
+        "startDate": "March 2023",
+        "description": "This is an app for pre-school kids around the world to entertain themselves without parental supervision. The idea is to have an app that allows kids to go through the website on their own and discover a few different pathways of interactivity such as: a splash page with a question of picking their favorite color and having the page show up as that color, clicking on a picture that links them to their favorite videos, a separate page for to a physics based game, and a rewards/progress tracker so that they can view what they've done the next time they access the website!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/byte-size-adventurez/p1.png",
+          "images/portfolio/byte-size-adventurez/p2.png",
+          "images/portfolio/byte-size-adventurez/p3.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Cookie Stand Interactive Table",
+        "startDate": "March 2023",
+        "description": "A collection of HTML and JavaScript features as practiced in Code Fellows Code201d98",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/cookie-stand/p1.png",
+          "images/portfolio/cookie-stand/p2.png"
+        ],
+        "url": "https://ikesteoger.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Code301 Final Placeholder",
+        "startDate": "April 2023",
+        "description": "TBA",
+        "images": [
+          "images/portfolio/"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -51,30 +71,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }

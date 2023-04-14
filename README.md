@@ -20,9 +20,9 @@
 >
 >Start time: 3pm
 >
->Finish time: 
+>Finish time: 3:30pm
 >
->Actual time needed to complete: 
+>Actual time needed to complete: 30 ins
 
 >Number and name of feature: 3. Projects Section
 >
