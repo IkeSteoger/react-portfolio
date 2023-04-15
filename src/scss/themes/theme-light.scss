@@ -4,4 +4,126 @@ body[data-theme="light"] {
     .slider-tab {
        background-color: #D7CAAA;
     }
+
+    .nav a {
+        color: white;
+    }
+
+     .title-styles {
+        color: #D92525;
+     }
+
+     .title-container {
+        color: #F2F2F2;
+        text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+     }
+  
+     .header-icon {
+        color: #044040;
+        opacity: 0.8;
+     }
+  
+     .slider-image {
+        border: 5px solid #044040;
+     }
+  
+     .language {
+        background-color: #D92525;
+     }
+  
+     .link-href {
+        color: #F2F2F2;
+     }
+  
+     .project-date {
+        background-color: #8C1F28;
+        color: #F2F2F2;
+    }
+    
+    header {
+        background-color: #D92525;
+        h1 {
+            background-image: url('./header.jpg');
+            background-repeat: no-repeat;
+            background-size: auto;
+            background-position: center;
+            border-radius: 50px;
+            margin: 20px;
+           color: #F2F2F2;
+           text-shadow:
+            -1px -1px 0 #000,
+            1px -1px 0 #000,
+            -1px 1px 0 #000,
+            1px 1px 0 #000;
+        }
+     }
+  
+     #about {
+        background-color: #044040;
+        h1 span {
+           color: #F2F2F2;
+        }
+        .polaroid span {
+           background:  #D92525;
+        }
+        .card {
+           background: #8C1F28;
+           color: #F2F2F2;
+        }
+     }
+  
+     #portfolio {
+        background: #591C21;
+        .section-title {
+           color: #F2F2F2 !important;
+        }
+        .foto div {
+           background: #044040;
+        }
+        .project-title-settings {
+           color: #F2F2F2;
+        }
+    }
+     #resume {
+        filter: brightness(80%);
+        background: #D92525;
+        .section-title {
+           color: white !important;
+        }
+  
+        .experience-badge {
+           background: #044040 !important;
+           color: white;
+        }
+  
+        .main-badge {
+           background: #044040 !important;
+        }
+  
+        .vertical-timeline-element-date {
+           color: white;
+        }
+  
+        .vertical-timeline-element-icon {
+           background: #044040 !important;
+        }
+        @media only screen and (max-width: 1169px) { 
+           .vertical-timeline-element-date {
+              color: white;
+           }
+        }
+     }
+  
+     .modal-inside .modal-content {
+        background: #D92525;
+        color: white;
+     }
+  
+     .close-icon {
+        color: white;
+     }
 }
