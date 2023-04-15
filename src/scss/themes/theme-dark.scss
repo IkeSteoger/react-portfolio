@@ -6,8 +6,21 @@ body[data-theme="dark"] {
       background-color: #8C8C8C;
    }
 
+   .nav a {
+      color: black;
+  }
+
+   .title-container {
+      color: black;
+      text-shadow:
+            -1px -1px 0 white,
+            1px -1px 0 white,
+            -1px 1px 0 white,
+            1px 1px 0 white;
+   }
+
    .title-styles {
-      color: white;
+      color: black;
    }
 
    .header-icon {
@@ -29,40 +42,49 @@ body[data-theme="dark"] {
 
    .project-date {
       background-color: #918e97;
-      color: white;
+      color: black;
    }
 
    header {
       background-color: #494949;
       h1 {
-         color: white;
+         background-image: url('./header.jpg');
+         background-repeat: no-repeat;
+         background-size: auto;
+         background-position: center;
+         color: black;
+         text-shadow:
+            -1px -1px 0 white,
+            1px -1px 0 white,
+            -1px 1px 0 white,
+            1px 1px 0 white;
       }
    }
 
    #about {
       background-color: #7f7f7f;
       h1 span {
-         color: white;
+         color: black;
       }
       .polaroid span {
          background:  #6d6d6d;
       }
       .card {
          background: #6d6d6d;
-         color: white;
+         color: black;
       }
    }
 
    #portfolio {
       background: #5b5b5b;
       .section-title {
-         color: white !important;
+         color: black !important;
       }
       .foto div {
          background: #6d6d6d;
       }
       .project-title-settings {
-         color: white;
+         color: black;
       }
    }
 
@@ -70,12 +92,12 @@ body[data-theme="dark"] {
       filter: brightness(80%);
       background: #5b5b5b;
       .section-title {
-         color: white !important;
+         color: black !important;
       }
 
       .experience-badge {
          background: #919191 !important;
-         color: white;
+         color: black;
       }
 
       .main-badge {
@@ -83,7 +105,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-date {
-         color: white;
+         color: black;
       }
 
       .vertical-timeline-element-icon {
@@ -98,10 +120,10 @@ body[data-theme="dark"] {
 
    .modal-inside .modal-content {
       background: #5b5b5b;
-      color: white;
+      color: black;
    }
 
    .close-icon {
-      color: white;
+      color: black;
    }
 }
